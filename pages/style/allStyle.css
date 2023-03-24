@@ -1,0 +1,20 @@
+@media only screen and (max-width: 600px) {
+    #videoCardLeftMargin {
+      /* background-color: lightblue; */
+      margin-right: -5rem;
+      width:325px;
+      height: 400px;
+      /* ml */
+    }
+
+    #upperdiv{
+        /* width: 400px; */
+        /* height: 0px; */
+    }
+  }
+
+  *{color: #4a226a;}
+
+  body{
+    /* background-color: rgb(0, 0, 0); */
+  }
